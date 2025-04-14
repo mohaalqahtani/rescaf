@@ -1,0 +1,11 @@
+ {
+    "restaurants": [
+      { "name": "مطعم الفخامة", "image": "www.google.com", "mapUrl": "ss", "price": "22", "ratingText":"ww", "stars":"22" },
+      { "name": "مطعم الرواق", "image": "www.google.com", "mapUrl": "ss", "price": "22", "ratingText":"ww", "stars":"22" }
+    ],
+    "cafes": [
+      { "name": "Mound : ماوند", "image": "https://ugc.production.linktr.ee/134c0f06-8d2e-45db-a08e-359a9090b551_Artboard---1.jpeg?io=true&size=avatar-v3_0", "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d632.3416508673354!2d50.208834273832665!3d26.29200719499392!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e9f9d8af5a73%3A0x8080104b514830a5!2sMOUND!5e0!3m2!1sar!2ssa!4v1744605722701!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>", "price": "من 20 الى 40", "ratingText":"جربت الايس امريكانو وكان عادي , اما كيكة المنقا كانت جميلة", "stars":"2.5" },
+      { "name": "كافيه الغروب", "image": "www.google.com", "mapUrl": "ss", "price": "22", "ratingText":"ww", "stars":"22" }
+    ]
+  }
+  

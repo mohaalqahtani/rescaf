@@ -1,0 +1,6 @@
+.MainBox{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin: 45px auto;
+}
