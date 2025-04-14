@@ -5,8 +5,6 @@ function FooterMain({ switchTab, activeTab }) {
     return (
       <div className="fixed z-50 w-full h-16 max-w-lg -translate-x-1/2 bg-white border border-gray-200 rounded-full bottom-1 left-1/2 dark:bg-gray-700 dark:border-gray-600 text-center">
         <div className="grid h-full max-w-lg grid-cols-2 mx-auto">
-          
-          {/* زر المطاعم */}
           <button
             onClick={() => handleClick('restaurants')}
             type="button"
@@ -18,8 +16,7 @@ function FooterMain({ switchTab, activeTab }) {
               <path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M18.011 13H20c-.367 2.5551-2.32 4.6825-4.9766 5.6162V20H8.97661v-1.3838C6.31996 17.6825 4.36697 15.5551 4 13h14.011Z"/>
             </svg>
           </button>
-  
-          {/* زر المقاهي */}
+
           <button
             onClick={() => handleClick('cafes')}
             type="button"

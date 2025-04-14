@@ -5,7 +5,7 @@ import sr from '../../../../SR.svg';
 export default function RestaurantSlider({ type }) {
     const [current, setCurrent] = useState(0);
 
-    const list = data[type]; // المطاعم أو المقاهي
+    const list = data[type];
   
     const goNext = () => {
       if (current < list.length - 1) setCurrent(current + 1);
@@ -17,13 +17,21 @@ export default function RestaurantSlider({ type }) {
   
     if (!list || !list[current]) return <p>ما فيه بيانات لعرضها</p>;
   
-    const { name, image, mapUrl, price, ratingText, stars } = list[current];
+    const { name, image, mapUrl, price, ratingText, stars, tryornot } = list[current];
     const isIframe = mapUrl.includes('<iframe');  
   return (
     <div className="bg-white text-gray-800 rounded-lg p-6 shadow-md max-w-md w-full">
       <img src={image} alt={name} className="rounded-md mb-4 w-20 h-20 justify-center m-auto object-cover" />
       <h2 className="text-2xl font-bold mb-2">{name}</h2>
-
+      {tryornot === "تمت تجربته ✅" ? (
+  <span className="bg-green-100 text-green-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded-full dark:bg-green-800 dark:text-green-300">
+    {tryornot}
+  </span>
+) : (
+  <span className="bg-red-100 text-red-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded-full dark:bg-red-900 dark:text-red-300">
+    {tryornot}
+  </span>
+)}
       <p className="mb-1 flex items-center gap-1 justify-center">💵
       <span className="text-lg font-semibold">{price}</span>
       <img src={sr} alt="ريال سعودي" className="w-4 h-4" />
@@ -34,9 +42,7 @@ export default function RestaurantSlider({ type }) {
       {isIframe ? (
         <div dangerouslySetInnerHTML={{ __html: mapUrl }} />
       ) : (
-        <a href={mapUrl} target="_blank" rel="noopener noreferrer" >
-          عرض الموقع على الخريطة
-        </a>
+        <a href={mapUrl} target="_blank" rel="noopener noreferrer" />
       )}
 
 <div className="flex gap-4 mt-6 justify-center">

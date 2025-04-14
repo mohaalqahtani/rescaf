@@ -1,11 +1,35 @@
  {
     "restaurants": [
-      { "name": "مطعم الفخامة", "image": "www.google.com", "mapUrl": "ss", "price": "22", "ratingText":"ww", "stars":"22" },
-      { "name": "مطعم الرواق", "image": "www.google.com", "mapUrl": "ss", "price": "22", "ratingText":"ww", "stars":"22" }
+      { "name": "مطعم الف ليله", 
+      "image": "www.google.com", 
+      "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d375.5667256397201!2d50.09327855247718!3d26.423057759610284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd006cf1bc93%3A0xeeda9467e3c059f3!2z2YXYt9i52YUg2KfZhNmBINmE2YrZhNmH!5e0!3m2!1sar!2ssa!4v1744611650974!5m2!1sar!2ssa' allowfullscreen=' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>", 
+      "price": "من 20 الى 40", 
+      "ratingText":"جربت سندويش كباب , وكان عادي جدا", 
+      "stars":"2" , 
+      "tryornot": "تمت تجربته ✅"},
+      { "name": "مطعم رايق", 
+      "image": "https://media-files.tryordersystem.com/tenant/rayg/settings/668e7674dbc56.png", 
+      "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3573.4376800101595!2d50.0591041869524!3d26.40934886744286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd73b212b055%3A0xb0040e335056c5d9!2z2YXYt9i52YUg2LHYp9mK2YI!5e0!3m2!1sar!2ssa!4v1744611796015!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>", 
+      "price": "من 20 الى 40", 
+      "ratingText":"جربت العربي وكان اسطوري جدا", 
+      "stars":"4" , 
+      "tryornot": "تمت تجربته ✅"}
     ],
     "cafes": [
-      { "name": "Mound : ماوند", "image": "https://ugc.production.linktr.ee/134c0f06-8d2e-45db-a08e-359a9090b551_Artboard---1.jpeg?io=true&size=avatar-v3_0", "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d632.3416508673354!2d50.208834273832665!3d26.29200719499392!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e9f9d8af5a73%3A0x8080104b514830a5!2sMOUND!5e0!3m2!1sar!2ssa!4v1744605722701!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>", "price": "من 20 الى 40", "ratingText":"جربت الايس امريكانو وكان عادي , اما كيكة المنقا كانت جميلة", "stars":"2.5" },
-      { "name": "كافيه الغروب", "image": "www.google.com", "mapUrl": "ss", "price": "22", "ratingText":"ww", "stars":"22" }
+      { "name": "Mound : ماوند", 
+      "image": "https://ugc.production.linktr.ee/134c0f06-8d2e-45db-a08e-359a9090b551_Artboard---1.jpeg?io=true&size=avatar-v3_0", "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d632.3416508673354!2d50.208834273832665!3d26.29200719499392!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e9f9d8af5a73%3A0x8080104b514830a5!2sMOUND!5e0!3m2!1sar!2ssa!4v1744605722701!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+      "price": "من 20 الى 40", 
+      "ratingText":"جربت الايس امريكانو وكان عادي , اما كيكة المنقا كانت جميلة", 
+      "stars":"2.5" , 
+      "tryornot": "تمت تجربته ✅"},
+
+      { "name": "Petibon : بتي بون", 
+      "image": "https://d1l6fcuu6fcorr.cloudfront.net/photos/menu_sections/photo_urls/43f02661-839d-454e-b9c3-7aeb2478cc49/original/WhatsApp_Image_2025-03-08_at_2.21.22_AM_1080x_auto_none", 
+      "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7153.71419032586!2d50.21346026952356!3d26.298732325510315!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e92c9c29a957%3A0x56fff08fe63e4684!2zUGV0aWJvbiDYqNiq2Yog2KjZiNmG!5e0!3m2!1sar!2ssa!4v1744611235104!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>", 
+      "price": "من 20 الى 60", 
+      "ratingText":"V60 , وكيكة البتي بون سوفليه", 
+      "stars":"؟" , 
+      "tryornot": "لم اجربه ❌"}
     ]
   }
   
