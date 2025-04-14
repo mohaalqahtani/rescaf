@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rescaf/static/css/main.433bec37.css",
+    "main.js": "/rescaf/static/js/main.cc4fa3ff.js",
+    "static/js/453.bd5e12aa.chunk.js": "/rescaf/static/js/453.bd5e12aa.chunk.js",
+    "static/media/SR.svg": "/rescaf/static/media/SR.870d72a680b48459afbce3c33c7e56af.svg",
+    "index.html": "/rescaf/index.html",
+    "main.433bec37.css.map": "/rescaf/static/css/main.433bec37.css.map",
+    "main.cc4fa3ff.js.map": "/rescaf/static/js/main.cc4fa3ff.js.map",
+    "453.bd5e12aa.chunk.js.map": "/rescaf/static/js/453.bd5e12aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.433bec37.css",
+    "static/js/main.cc4fa3ff.js"
+  ]
+}
