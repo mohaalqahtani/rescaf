@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/rescaf/static/css/main.14bc8707.css",
-    "main.js": "/rescaf/static/js/main.1c085e7c.js",
+    "main.js": "/rescaf/static/js/main.26e65252.js",
     "static/js/453.bd5e12aa.chunk.js": "/rescaf/static/js/453.bd5e12aa.chunk.js",
     "static/media/SR.svg": "/rescaf/static/media/SR.870d72a680b48459afbce3c33c7e56af.svg",
     "index.html": "/rescaf/index.html",
     "main.14bc8707.css.map": "/rescaf/static/css/main.14bc8707.css.map",
-    "main.1c085e7c.js.map": "/rescaf/static/js/main.1c085e7c.js.map",
+    "main.26e65252.js.map": "/rescaf/static/js/main.26e65252.js.map",
     "453.bd5e12aa.chunk.js.map": "/rescaf/static/js/453.bd5e12aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14bc8707.css",
-    "static/js/main.1c085e7c.js"
+    "static/js/main.26e65252.js"
   ]
 }
