@@ -4,7 +4,6 @@ function AlertModel (){
     const [showModal, setShowModal] = useState(false);
 
     useEffect(() => {
-      // يظهر المودال أول ما يفتح المستخدم الصفحة
       setShowModal(true);
     }, []);
   
@@ -23,7 +22,7 @@ return(
         </div>
         <div className="p-4 md:p-5 space-y-4">
           <p className="text-base leading-relaxed text-gray-500 dark:text-gray-400">
-            جميع التقييمات بناء على تجربة شخصية وليست هبد 🥲
+            جميع التقييمات بناء على تجربة شخصية وليست هبد 🥲 , القائمة بتتحدث دائما وليس هذا تحديثها الاخير
           </p>
         </div>
         <div className="flex items-center p-4 md:p-5 border-t border-gray-200 rounded-b dark:border-gray-600 justify-center m-auto">

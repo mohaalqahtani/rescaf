@@ -22,10 +22,6 @@ function App() {
       <FooterMain switchTab={switchTab} activeTab={activeTab} />
       <AlertModel/>
     </div>
-    
-
-
-
   );
 }
 

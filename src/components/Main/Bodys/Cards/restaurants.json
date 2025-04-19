@@ -13,7 +13,475 @@
       "price": "من 20 الى 40", 
       "ratingText":"جربت العربي وكان اسطوري جدا", 
       "stars":"4" , 
-      "tryornot": "تمت تجربته ✅"}
+      "tryornot": "تمت تجربته ✅"},
+      {
+        "name": "TheContainer : ذا كونتينر",
+        "image": "https://cdn.discordapp.com/attachments/1361200813053313177/1361846090453876776/81460253_177939510290237_1198038319280160768_n.jpg?ex=68043201&is=6802e081&hm=f7c35abdb3510bb6d42e82c2b5503a58fe3b5ee6d26d5abb8ce5ce477e9ca98e&",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d893.4790973254218!2d50.07231330312554!3d26.393888748451275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd08b6ea8a0b%3A0x40e4afdab881d5a1!2z2LDYpyDZg9mI2YbYqtmK2YbYsQ!5e0!3m2!1sar!2ssa!4v1744759930399!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 20 الى 40",
+        "ratingText": "عادي جدا لا طعم مميز ولا مختلف",
+        "stars": 3,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "Unlock : انلوك",
+        "image": "https://cdn.discordapp.com/attachments/1361200813053313177/1361847303656181881/313666830_811407720188693_2759338622814499709_n.jpg?ex=68043323&is=6802e1a3&hm=c869928d1d1125a58b47d2faa9b5c7197e7567aa9508efc931c3779998749b7e&",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d893.4794503171163!2d50.0732085853815!3d26.39384313595438!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fdabd588a171%3A0x2c2b1354503b5cce!2sunlock!5e0!3m2!1sar!2ssa!4v1744760111085!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 20 الى 50",
+        "ratingText": "عادي جدا لا طعم مميز ولا مختلف",
+        "stars": 2,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "Q EAT : كيو ايت",
+        "image": "https://media-files.tryordersystem.com/tenant/qeat/settings/6728a3bbc3a3d.png",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d893.4995772353848!2d50.074793514016605!3d26.39124227668214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fde0397372e7%3A0xa967edab4c725cb8!2zUSBFQVQg2YPZitmIINin2YrYqg!5e0!3m2!1sar!2ssa!4v1744760258332!5m2!1sar!2ssa'  allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 20 الى 40",
+        "ratingText": "عادي جدا لا طعم مميز ولا مختلف اشغلنا فيه سعيد",
+        "stars": 2,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "شواية الخليج",
+        "image": "https://images.taker.io/taker_shwaiatalkhalij/1677685492_uyOJHy.PNG",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14299.021522589797!2d50.068476564831386!3d26.366772872046518!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e323196fe3f9%3A0x20ed9abc37028b22!2z2LTZiNin2YrYqSDYp9mE2K7ZhNmK2Kw!5e0!3m2!1sar!2ssa!4v1744760492051!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 20 الى 30",
+        "ratingText": "سر تميزه بالرز الاحمر غيره مافيه , الا انه يحط ثوم احيانا",
+        "stars": 3.5,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "مشويات البراحة",
+        "image": "",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7146.04849574711!2d50.07887267071937!3d26.422694076131723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fcf494b14bd9%3A0xa690bc7cfc6ba11b!2z2YXYtNmI2YrYp9iqINin2YTYqNix2KfYrdip!5e0!3m2!1sar!2ssa!4v1744760605350!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 7 الى 20",
+        "ratingText": "يمكن تحصل كلاب حول المحل بس عوافي , الكباب لذيذ",
+        "stars": 4,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "فلافل الرابية",
+        "image": "https://falafelalrabyah.com/uploads/Settings/1730274786_9358.webp",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7145.983136353362!2d50.08004133809017!3d26.423748679882003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fcf4cdfdf829%3A0x4470d5269427b360!2z2YHZhNin2YHZhCDYp9mE2LHYp9io2YrYqQ!5e0!3m2!1sar!2ssa!4v1744760797567!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 5 الى 20",
+        "ratingText": "فلافل لذيذة",
+        "stars": 4,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "مطاعم ومحانذ بن عواض",
+        "image": "https://cdn.discordapp.com/attachments/1361200813053313177/1361850708378517696/430767328_314153528312334_1957661991559113382_n.jpg?ex=680041ce&is=67fef04e&hm=f5d3b9ce36955e4f08dbd091be421fe8cd732b91e4ba1c4e01578278d359973f&",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14298.893163641087!2d50.03677292797866!3d26.367810476079573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e3603b2e97c090f%3A0xfa975eefb9dc59cc!2z2YXYt9in2LnZhSDZiNmF2K3Yp9mG2LAg2KjZhiDYudmI2KfYtg!5e0!3m2!1sar!2ssa!4v1744761004832!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 300 وطالع",
+        "ratingText": "تجربة عادية ما كانت مميزه ولا طعمت الحنيذ فعلا",
+        "stars": 2,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "مضغوط تهامة",
+        "image": "",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14295.002592847355!2d50.044780280361515!3d26.39924237814536!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd16a1766f55%3A0x9f598a0e0a639350!2z2YXYtti62YjYtyDYqtmH2KfZhdip!5e0!3m2!1sar!2ssa!4v1744761126339!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 20 الى 40",
+        "ratingText": "عادي جدا اشغلنا فيه سعيد",
+        "stars": 2,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "تكا واي",
+        "image": "https://ugc.production.linktr.ee/c0OTjl0QS1SasTdcvQ7R_2z4tayR8WXLd65Xe?io=true&size=avatar-v3_0",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1786.8420976711866!2d50.0493513!3d26.401388599999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd006b95bb4d%3A0xa358e19b2b92f36!2z2KrZg9inINmI2KfZig!5e0!3m2!1sar!2ssa!4v1744761303913!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 20 الى 30",
+        "ratingText": "لا زلت ارى بأن البوفية الي بالكويت افضل منه بالتكا والشيش طاووق طعمًا وجودة",
+        "stars": 2,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "ماما نورة",
+        "image": "https://ugc.production.linktr.ee/7LhmGfV6SMWrEWLFGp4k_8FdU7X6wl8zB6458?io=true&size=avatar-v3_0",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1786.7819832798068!2d50.05719606109357!3d26.40527120580315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd0917e8673b%3A0xdb94d1c423775674!2z2YXYp9mF2Kcg2YbZiNix2Kk!5e0!3m2!1sar!2ssa!4v1744761407165!5m2!1sar!2ssa'  allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 7 الى 20",
+        "ratingText": "لا زلت على رأيي يوم بالرياض قبل مايفتح هنا , بإن نورس الشام اطلق منه",
+        "stars": 2,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "زاد السلطان",
+        "image": "https://ugc.production.linktr.ee/mi6q2woeR2Wxp22lVQ76_zmMcKB9zf7uDZZwI?io=true&size=avatar-v3_0",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d893.4890327160196!2d50.104579199999996!3d26.3926049!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e5a0a69e9033%3A0xbf697b81e12e89b1!2sZad%20AlSultan!5e0!3m2!1sen!2ssa!4v1744761564832!5m2!1sen!2ssa'  allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 89 الى 300",
+        "ratingText": "الطلب كان مخصوص , اللحم لذيذ لكن الرز عادي",
+        "stars": 3,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "الرومانسية",
+        "image": "https://alromansiah.com/Themes/NopRoot/Content/images/Header-Logo.png",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3004.957160048021!2d50.06186226609668!3d26.406806018888375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fce227158d67%3A0x671fae915de9c2e3!2z2KfZhNix2YjZhdin2YbYs9mK2KkgfCDYp9mE2YHZiti12YTZitip!5e0!3m2!1sar!2ssa!4v1744761725909!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 20 الى 60",
+        "ratingText": "السبير المفضل , مستحيل يتقيم مظبي بشاور 👍🏻",
+        "stars": 5,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "غاوي فلافل",
+        "image": "https://foodics-console-production.s3.eu-west-1.amazonaws.com/images/417674_1688456641_999071d6-09df-48bd-a334-0ff553263a9d.png",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3573.50819532421!2d50.06985515356064!3d26.407072073180554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd4d56ae066f%3A0xb0ea536726b1f9b7!2zR2hhd2kgRmFsYWZlbCB8INi62KfZiNmKINmB2YTYp9mB2YQ!5e0!3m2!1sar!2ssa!4v1744761888871!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 7 الى 15",
+        "ratingText": "الصبه لذيذة",
+        "stars": 4,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "مخابز اليحيى",
+        "image": "https://cdn.discordapp.com/attachments/1361200813053313177/1361855244086153226/312830968_1529160647549413_6370184264932727416_n.jpg?ex=68004608&is=67fef488&hm=917ccf20aa3c13605abc5398257a9742a2191d6be15385d811be2c76a406836c&",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d751.2493291436539!2d50.06213497556258!3d26.405264008883886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fda96dd25a2f%3A0xc3f800846f861d4f!2z2YXYrtin2KjYsiDYp9mE2YrYrdmK2Yk!5e0!3m2!1sar!2ssa!4v1744762006803!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 5 الى 15",
+        "ratingText": "الفلافل لا يعلى عليها",
+        "stars": 5,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "كافتيريا مدوّر",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/b6/89/67b68903-4af5-4464-92b5-094b535c1e1b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/217x0w.webp",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d223.39427874063495!2d50.056726499999996!3d26.3812204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd4bc80b3a2b%3A0xeab6db673f3f4d6b!2z2YPYp9mB2KrZitix2YrYpyDZhdiv2YjZkdix!5e0!3m2!1sar!2ssa!4v1745050914591!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 20 الى 60",
+        "ratingText": "الكبدة لذيذة لكن لا يزال بوفية بطرانين , اسعار مرتفعة على قل سنع",
+        "stars": 3,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "تاغ",
+        "image": "https://i0.wp.com/tagksa.com/wp-content/uploads/2020/09/TAG-logo22.png?fit=284%2C93&ssl=1",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d223.39447524794926!2d50.05670230387185!3d26.38111878635162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd087dbee71b%3A0x16377e83c006f433!2z2KrYp9i6!5e0!3m2!1sar!2ssa!4v1745050576254!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 10 الى 20",
+        "ratingText": "الشيش طاووق بالنسبة لذيذ , وجربته ب 2021 ولا ادري اذا لازال ممتاز",
+        "stars": 4,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "ديب فرايز",
+        "image": "https://s3.eu-west-1.amazonaws.com/cdn.getsolo.io/1653517806628eadee4def0_DF%20NEW%20LOGO-01.png",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d446.79223924541265!2d50.05763333261765!3d26.380268468298436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd3dcb5d21b7%3A0xd663248e0322edf6!2z2K_ZitioINmB2LHYp9mK2LI!5e0!3m2!1sar!2ssa!4v1745050975718!5m2!1sar!2ssa'  allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 21 الى 50",
+        "ratingText": "جربته 2021 وكان مش ولا بد وجربته 2022 او 2023 وكالعادة وجربته 2025 وكان عادي ثلاث مرات ولا مره جاز لي",
+        "stars": 2,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "كيين | KiiN",
+        "image": "https://images.deliveryhero.io/image/hungerstation/restaurant/logo_ar/bc8f19819893f131f6b553b108364a61.jpg?width=96&quality=150",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d375.7071094275938!2d50.05768942366836!3d26.37992498735607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e3d8cec7f9cb%3A0xb4ced910add1b52b!2z2YPZitmK2YYgfCBLaWlO!5e0!3m2!1sar!2ssa!4v1745051140488!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 25 الى 50",
+        "ratingText": "اقل من عادي",
+        "stars": 1,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "اصل البرجر TBO",
+        "image": "https://s3.eu-west-1.amazonaws.com/cdn.getsolo.io/167678086863f1a544a1da8_%D9%84%D9%88%D8%AC%D9%88%20%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%20%D8%A7%D9%8A%D9%81%D9%88%D9%86%20%D8%AE%D9%84%D9%81%D9%8A%D8%A9%20%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1.jpg",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d446.79586494925263!2d50.058336499999996!3d26.379331!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e3fb904d68df%3A0x2c1e776eedc5de1!2z2KfYtdmEINin2YTYqNix2KzYsSBUQk8!5e0!3m2!1sar!2ssa!4v1745051248311!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 21 الى 50",
+        "ratingText": "اقل من عادي",
+        "stars": 1,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "مطعم سنجار",
+        "image": "https://sinjar.net/images/logo-ar.svg",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d446.7975806166611!2d50.05878016433766!3d26.378887383267127!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e31fc6c63589%3A0x9ecd802585c936c2!2z2YXYt9i52YUg2LPZhtis2KfYsSAtINin2YTYr9mF2KfZhQ!5e0!3m2!1sar!2ssa!4v1745051343683!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 22 الى 100",
+        "ratingText": "جربته مرتين اول مره بالافتتاح وكان عادي الرز بارد ( غداء ) , المره الثانية عشاء مشويات وكان عادي بعد مافيه شيء مميز",
+        "stars": 1,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "مطاعم هاشم",
+        "image": "https://images.deliveryhero.io/image/hungerstation/restaurant/logo_ar/094c1e1ab7dfeacfd8f6449938794df5.jpg?width=96&quality=75",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d375.71780348347886!2d50.060624681806836!3d26.376636566247246!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e32a1abf199d%3A0x8dcd7a84b7582310!2z2YXYt9in2LnZhSDZh9in2LTZhQ!5e0!3m2!1sar!2ssa!4v1745054364374!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 7 الى 30",
+        "ratingText": "كان اسطورة الفلافل والحمص , لكن مخابز اليحيى قفلت عليه بالفلافل , لكن لازال ممتاز بالحمص رغم انه قلل الكمية وصغر العلب",
+        "stars": 4,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "فروج ابوالعبد",
+        "image": "https://images.deliveryhero.io/image/hungerstation/restaurant/logo_ar/eb5ec2fdc04a80bcc48c617143bbf337.png?width=96&quality=75",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d631.8804519408193!2d50.061097205216534!3d26.376464000293197!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e3c695565521%3A0xecbbd4afad81cb64!2z2YHYsdmI2Kwg2KfYqNmI2KfZhNi52KjYrw!5e0!3m2!1sar!2ssa!4v1745054472367!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 10 الى 30",
+        "ratingText": "هبه فقط ولا يستاهل العنوه , على سندويش شيش طاووق قعدت نص ساعة بالضبط مع ان المحل فيه 4 بس",
+        "stars": 1,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "كشري ستيشن",
+        "image": "https://images.deliveryhero.io/image/hungerstation/restaurant/logo_ar/88e81cacc6cee643c3b87afc992b2cd9.jpg?width=96&quality=75",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d893.6121319431287!2d50.06135915845827!3d26.37669323997213!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e3585e70c01b%3A0x37594360894d8e09!2z2YPYtNix2Yog2LPYqtmK2LTZhg!5e0!3m2!1sar!2ssa!4v1745054605759!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 18 الى 30",
+        "ratingText": "ما اقدر اقول انه ممتاز او شين لان ماجربت الا مطعم واحد للكشري وكان افضل مطعم ومع الاسف قفل , هذا بالنسبة لي يمشي الحال لان يوم جربته كان فيه كمية نشفان الصوص قليييل",
+        "stars": 2,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "تيستي توست",
+        "image": "https://assets.mbshr.sa/tastytost.api.mbshr.sa/Branch/9d1857be-1e3e-4669-958d-bccc3db6ef08-1727278768/original.jpg",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d223.40261615606406!2d50.06091847731852!3d26.376908815156778!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fdaee64db071%3A0xc2fbdf5fbd897689!2z2KrZitiz2KrZiiDYqtmI2LPYqg!5e0!3m2!1sar!2ssa!4v1745054862696!5m2!1sar!2ssa'  allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 20 الى 40",
+        "ratingText": "جربته اول مره وكان عادي , بعدها بسنه حصلت له عرض بأحد التطبيقات وقررت اجربه , اول تجربة للعرض كانت ممتازة بعدها بالمره الرابعة الستربس ذكرني بالعلك",
+        "stars": 2,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "لحظة | Lahza",
+        "image": "https://media-files.tryordersystem.com/tenant/lahza/settings/6703e8db5a57e.png",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d446.804808021032!2d50.060878953576534!3d26.37701853155155!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e38e6d0fdacf%3A0x476106df14f59485!2z2YTYrdi42KkgfCBMYWh6YQ!5e0!3m2!1sar!2ssa!4v1745055005215!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 15 الى 30",
+        "ratingText": "كان امنية حياتي اجربه ب 2011 يوم مدحه لي ولد عمي وكان الوالد رافض , بعد ماجربته عرفت ليش ابوي رفض وقتها , نورس الشام بعزه يقفل عليه .",
+        "stars": 1,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "شاورمجي | SHAWERMAGY",
+        "image": "https://cdn.discordapp.com/attachments/1361200813053313177/1363085111582654535/350089187_770509754539993_442665815303539325_n.jpg?ex=6804bf6f&is=68036def&hm=d9bc539bb22f637dbc7c8b0e9ab258ce56d8a1466460d90cdf8fe1e67baf1658&",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d223.40082829266606!2d50.060165279814576!3d26.377833440326746!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e3903649ef21%3A0x6eee2c4ff7a38ef2!2z2LTYp9mI2LHZhdis2YogfCBTSEFXRVJNQUdZ!5e0!3m2!1sar!2ssa!4v1745055244372!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 20 الى 50",
+        "ratingText": "كان عندهم عربي دبل لحم , ليل ونهار بأي وقت بس مع الاسف شلوه ومايسوى بعد ماشلوه لان العربي لحم العادي كمية اللحم قليلة بالقطعة عكس الدبل قليلة كمية اللحم لكن 12 قطعة",
+        "stars": 4,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "كوخ البخاري",
+        "image": "https://cdn.discordapp.com/attachments/1361200813053313177/1363085910203433072/photo_2025-04-19_12-36-38.jpg?ex=6804c02d&is=68036ead&hm=40d542e093ce9eef9a32739bd8baa518e0418908b599f56d06717c483d7ce8b9&",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d223.39973059560177!2d50.059240398802935!3d26.378401118866094!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e373b814a6ad%3A0x42b302f3e4f8a489!2z2YPZiNiuINin2YTYqNiu2KfYsdmK!5e0!3m2!1sar!2ssa!4v1745055451241!5m2!1sar!2ssa'  allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 15 الى 30",
+        "ratingText": "من اسمه بخاري , شف اطرف بخاري عندك اصرف لك غير مميز بشيء",
+        "stars": 2,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "اللاهب",
+        "image": "https://images.deliveryhero.io/image/hungerstation/restaurant/logo_ar/8e0914273fcd1fb40c00f71200600c0a.jpg?width=96&quality=75",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d265.66035396965566!2d50.056568570786666!3d26.381964707056355!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd7ebf18e94b%3A0x883172f576933208!2z2KfZhNmE2KfZh9ioIEFsIExhaGli!5e0!3m2!1sar!2ssa!4v1745055573828!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 25 الى 30",
+        "ratingText": "كرماء الصراحة يعطونك كل المقبلات مع البروستد , بالبداية الدجاج كان الظاهر 800 بعدين نزل وصارت فتات",
+        "stars": 3.5,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "لورينزو بيتزا",
+        "image": "https://lorenzo.com.sa/site/images/logo.webp",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d223.38901917038746!2d50.0549171393546!3d26.38393998118742!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd3ea8c4f519%3A0x4ddafec69f30db68!2zTG9yZW56byBQaXp6YSB8INmE2YjYsdmK2YbYstmIINio2YrYqtiy2Kc!5e0!3m2!1sar!2ssa!4v1745055708295!5m2!1sar!2ssa'  allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 30 الى 50",
+        "ratingText": "بالمختصر مايسترو يقفل عليه",
+        "stars": 2,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "مايسترو بيتزا",
+        "image": "https://objects.maestropizza.com/ksa/assets/rebranding/images/logo_maestro_ar.svg",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d265.6274571492977!2d50.04296805184959!3d26.396265112464235!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd15be91bca7%3A0xd41df5974883b08f!2z2YXYp9mK2LPYqtix2Ygg2KjZitiq2LLYpw!5e0!3m2!1sar!2ssa!4v1745055967182!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 30 الى 70",
+        "ratingText": "تعدو مرحلة الكرم دفوني ب 60 ريال هدية , دجاج البافلو وبيري بيري دينمايت دجاج التوب ومن الحلا تشوروز",
+        "stars": 5,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "صب واي",
+        "image": "https://www.subway.com/-/media/Base_Arabic/Arabic/Images/Branding/subway-logo-arabic.png",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d265.6270353288382!2d50.04271472129431!3d26.396448433140442!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd15b9367fb7%3A0x86d835df2f6d8789!2z2LXYqCDZiNin2Yo!5e0!3m2!1sar!2ssa!4v1745056057152!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 24 الى 40",
+        "ratingText": "جربت البوكس العائلي فقط لا بأس فيه",
+        "stars": 2,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "مقلط الفريج",
+        "image": "https://images.deliveryhero.io/image/hungerstation/restaurant/logo_ar/da2c1de7df1f41a5421833ba7ac9ab0f.jpg?width=96&quality=75",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d446.7239770090378!2d50.04676046340131!3d26.397912702515065!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd8f86f653ad%3A0x77a8b50f70f8d3cd!2z2YXZgtmE2Lcg2KfZhNmB2LHZitisINin2YTZgdmK2LXZhNmK2Kk!5e0!3m2!1sar!2ssa!4v1745056220049!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 40 الى 100",
+        "ratingText": "جربته مرتين للفطور , افطر ببيتك",
+        "stars": 1,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "مطعم الطازج",
+        "image": "https://www.taza.com.sa/cdn/shop/files/Logo_1000x1000-01_550x.png?v=1641382330",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d223.34885042657228!2d50.05507306740938!3d26.40470157340999!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd60b287b62d%3A0x2595400377277067!2z2YXYt9i52YUg2KfZhNi32KfYstis!5e0!3m2!1sar!2ssa!4v1745056581077!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 20 الى 40",
+        "ratingText": "مصحوب بذكريات مكة فقط ( الفروج ) اما بعد مافتح بالدمام ما اشوف انه يستاهل 4 تجارب",
+        "stars": 2,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "بوفية النعايم",
+        "image": "",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d315.85113302751165!2d50.05790124296211!3d26.40902702788024!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd1d2e542919%3A0x6df61c259fe86e57!2z2KjZiNmB2YrYqSDYp9mE2YbYudin2YrZhQ!5e0!3m2!1sar!2ssa!4v1745056727908!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 7 الى 25",
+        "ratingText": "تفضيل شخصي بالكبدة وعصير الكوكتيل البارد خصوصا بالصيف ويوم كنت اداوم أعتقد السبب الرئيسي لأستمراري للدوام هو المحل هذا",
+        "stars": 5,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "فطيرة الفلافل",
+        "image": "https://images.deliveryhero.io/image/hungerstation/restaurant/logo_ar/31ad0a07568098bdcd59765c99d70d1e.jpg?width=96&quality=75",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d446.6718833046847!2d50.05699899047611!3d26.411370378055445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd0304418eb7%3A0xbfc9444209335237!2z2YHYt9mK2LHYqSDYp9mE2YHZhNin2YHZhA!5e0!3m2!1sar!2ssa!4v1745056842991!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 15 الى 20",
+        "ratingText": "قبل كورونا كان ممتاز لكن بعدها دحدر",
+        "stars": 3,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "مطاعم أبوهلال",
+        "image": "https://images.deliveryhero.io/image/hungerstation/restaurant/logo_ar/3c2679ab06a2c5cccb2eb4ee71a5c4f6.png?width=96&quality=75",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d446.6718379616392!2d50.033618845045545!3d26.411382089020854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd9df7c02f8f%3A0xc426fef35da51588!2z2YXYt9in2LnZhSDYo9io2YjZh9mE2KfZhCAtINij2K3Yrw!5e0!3m2!1sar!2ssa!4v1745057128666!5m2!1sar!2ssa'  allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 20 الى 40",
+        "ratingText": "كان سبب رئيسي لكرهي للعريكة والمعصوب",
+        "stars": 1,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "مطعم هرفي",
+        "image": "https://www.herfy.com/in-resources/8e6b2cb0-d95c-421b-9265-715d6b149ba8/Images/userimages/9_8_2024/Logo/Logo-ARB.png",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d446.65986500949265!2d50.03087162059275!3d26.414474232047585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd001511df91%3A0xa1271128a846d95d!2z2YXYt9i52YUg2YfYsdmB2Yo!5e0!3m2!1sar!2ssa!4v1745057238341!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 30 الى 40",
+        "ratingText": "الفرع ذا بالذات يجيب لي ضيقه كل ما مريت منه , لان الوالد كان بيطلب لنا ووقتها مسوي اني بنحف وطلبت سلطة بس وقعدت من الغداء الى العشاء جوعان , الطلب المعتاد كمبو سوبر تشيلي الدجاج",
+        "stars": 4,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "مطعم طنجرة",
+        "image": "https://ugc.production.linktr.ee/b394852d-c392-49d0-afb8-b8c720004c4e_tanjara.ksa----------0001.jpeg",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d315.83482071671335!2d50.0304114705063!3d26.414985060619316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd9ca0386c3b%3A0xaecd0704034a3e4e!2z2YXYt9i52YUg2LfZhtis2LHYqQ!5e0!3m2!1sar!2ssa!4v1745057356560!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 20 الى 40",
+        "ratingText": "ب 2019 كان العربي اسطوري لكن بعدها ماش",
+        "stars": 3.5,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "مطعم أبو نواس",
+        "image": "https://business.cbxcdn.net/storage/businessunits/ab95957e-4806-4db4-8544-8609532ebab9/300/abu-nawas-logo.png",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d446.65702979884014!2d50.03075357497492!3d26.41520640634526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd9b62c203e3%3A0x37ba197f0bd3c159!2z2YXYt9i52YUg2KPYqNmIINmG2YjYp9iz!5e0!3m2!1sar!2ssa!4v1745057497267!5m2!1sar!2ssa'  allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 21 الى 50",
+        "ratingText": "غني عن التعريف لكن بابهم الدوار ياكم مره صفقت فيه والبروستد كم مره نشبت بحلقي من النشفان",
+        "stars": 2,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "شرنبي",
+        "image": "https://images.deliveryhero.io/image/hungerstation/restaurant/logo_ar/10949c90da7b0aa4b541c7824ee5a2b4.jpg?width=96&quality=75",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d375.5713731258292!2d50.046978595468325!3d26.421630870389443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd07026a5827%3A0x6063c418de23b327!2z2LTYsdmG2KjZig!5e0!3m2!1sar!2ssa!4v1745057727933!5m2!1sar!2ssa'  allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 20 الى 40",
+        "ratingText": "غني عن التعريف لكن اذا ودك تفقع كبدك رح له ( زيت )",
+        "stars": 2,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "ذا تاون",
+        "image": "https://cdn.discordapp.com/attachments/1361200813053313177/1363097757342105620/249184622_286351540050921_9109592257584376952_n.jpg?ex=6804cb36&is=680379b6&hm=757ff00f11e59df2bfac8b6e7b20dd1354e3a72904f78e6078839290f26af9bc&",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d894.0445929061842!2d50.22233189866641!3d26.320723060983525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e95fb0f758e5%3A0xa4ce115fc645b8ee!2z2LDYpyDYqtin2YjZhg!5e0!3m2!1sar!2ssa!4v1745058243662!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 30 الى 50",
+        "ratingText": "بناء على توصية وكان جيد",
+        "stars": 3,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "فتة وصنوبر",
+        "image": "https://cdn.discordapp.com/attachments/1361200813053313177/1363098179565785139/447096499_2825737060950173_1365338883439834069_n.jpg?ex=6804cb9b&is=68037a1b&hm=fca144245d639cc40b016588a15ecdc5b5f674344f51b4131ca78ab965a65d0e&",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d751.8008365119604!2d50.2225337245823!3d26.32042367665905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e984c6435043%3A0xbbb4e135dfa25d3f!2z2YXYt9i52YUg2YHYqtipINmI2LXZhtmI2KjYsSDYtNin2LHYuSDYp9mE2KfZhdmK2LEg2KrYsdmD2Yo!5e0!3m2!1sar!2ssa!4v1745058342115!5m2!1sar!2ssa'  allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 50 الى 170",
+        "ratingText": "فطور عادي كأعلى تقدير , بس الحلوم لذيذ",
+        "stars": 2,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "أبها الحديث",
+        "image": "",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4249.349399801541!2d50.07845653043998!3d26.414998552612346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fced0b1144f7%3A0x53e0ac14827ca274!2z2YXYt9i52YUg2KPYqNmH2Kcg2KfZhNit2K_Zitir!5e0!3m2!1sar!2ssa!4v1745058468909!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 20 الى 60",
+        "ratingText": "فطور عادي وكمية الكبدة قليلة مقارنة بالسعر",
+        "stars": 2,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "بروستد الرازي",
+        "image": "",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d531.1333660989553!2d50.07261470416539!3d26.422665008504662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd62bee4903d%3A0x16f29967da4dd645!2z2KjYsdmI2LPYqtivINin2YTYsdin2LLZig!5e0!3m2!1sar!2ssa!4v1745058571925!5m2!1sar!2ssa'  allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 20 الى 40",
+        "ratingText": "تبي بروستد وصخ ؟ وزيت بالبروستد ؟ هنا .",
+        "stars": 2,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "البيك",
+        "image": "https://images.deliveryhero.io/image/hungerstation/restaurant/logo_ar/961ac6d42dd2a76f2308068ab4b792b0.png?width=96&quality=75",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2527.099941307181!2d50.042614554608065!3d26.395742265457407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fdc5e349a3df%3A0x7fed44a01d23bb10!2z2KfZhNio2YrZgw!5e0!3m2!1sar!2ssa!4v1745058695027!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 20 الى 40",
+        "ratingText": "هبه بالمختصر جربته 9 مرات ومنها بوقت الافتتاح",
+        "stars": 1,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "فوال خلوفه",
+        "image": "",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d631.7761943868915!2d50.04167215104539!3d26.39552133516063!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fd59acd49fff%3A0x9d2409b024bd3586!2z2YHZiNin2YQg2K7ZhNmI2YHZhw!5e0!3m2!1sar!2ssa!4v1745058744093!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 4 الى 30",
+        "ratingText": "هبه ثانية جربته بوقت الافتتاح الاول وقعد الطلب ساعة وربع بالنهاية مايسوى",
+        "stars": 1,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "قويا",
+        "image": "https://images.deliveryhero.io/image/hungerstation/restaurant/logo_ar/5f190b93d14590cf52794f3e5433c7bf.jpg?width=96&quality=75",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14305.953098703418!2d50.23482566373718!3d26.31068427737185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e85346df9fe5%3A0x64e48c1ee37de48d!2z2YLZiNmK2Kc!5e0!3m2!1sar!2ssa!4v1745059184686!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 20 الى 40",
+        "ratingText": "وقت الافتتاح وكان عادي جدا ووقت اخر صار اسوء",
+        "stars": 1,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "ليتل سيزر",
+        "image": "https://littlecaesarsksa.com/wp-content/uploads/2023/08/Web-Logo-2560.png",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57178.26392061015!2d50.14022267941696!3d26.402767602109826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fcb96763a2cd%3A0xbdf7cd3c33f2e7f8!2z2YTZitiq2YQg2LPZitiy2LE!5e0!3m2!1sar!2ssa!4v1745059609395!5m2!1sar!2ssa'  allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 25 الى 40",
+        "ratingText": "دايناميت رانش الدجاج المفضلة , البيتزا بشكل عام اقيمها على الحجم مو الطعم , المفترض 4 لكن تأخييييييير",
+        "stars": 3.5,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "مشويات وتكا شيف الديرة",
+        "image": "",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3570.9748537458595!2d50.04074671114502!3d26.488754500000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49fe34f9a04e2d%3A0xa56a46f6345f6e7c!2z2YXYtNmI2YrYp9iqINmI2KrZg9inINi02YrZgSDYp9mE2K_Zitix2KkgKCDZoiAp!5e0!3m2!1sar!2ssa!4v1745059923410!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 23 الى 55",
+        "ratingText": "الله لايوفق التيك على نصائحه",
+        "stars": 1,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "ريجل برجر",
+        "image": "https://d8aaen7rph5y9.cloudfront.net/app/mediafiles/t_1671102193_emxfk9/restaurants/khobar_olaya_branch_-_alsaleakgmail.com_16749871351216130.jpeg",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3576.746207219089!2d50.180605323796065!3d26.302326277016316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e71c7c1b8bf9%3A0xbcdad4d8204602ba!2z2LHZitis2YQg2KjYsdis2LE!5e0!3m2!1sar!2ssa!4v1745060000878!5m2!1sar!2ssa'  allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 40 الى 50",
+        "ratingText": "عادي وغالي على قل سنع",
+        "stars": 1,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "ألوها",
+        "image": "https://cdn.discordapp.com/attachments/1361200813053313177/1363106133388296193/6578baa6c79f1283664_.jpg?ex=6804d303&is=68038183&hm=91df780c6a7077ae5f7541b2ddd747055ad6aab2e4444dd21506445901652180&",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3576.4371297047983!2d50.22551302379583!3d26.312341277010137!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e9878e46138d%3A0x71243a16163f603e!2z2KPZhNmI2YfYpw!5e0!3m2!1sar!2ssa!4v1745060251169!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 20 الى 40",
+        "ratingText": "عادي جدا الصدق جيته عشان الزحليقه",
+        "stars": 2,
+        "tryornot": "تمت تجربته ✅"
+      },
+      {
+        "name": "بيك اب برقر",
+        "image": "https://images.deliveryhero.io/image/hungerstation/restaurant/logo_ar/f92428445ce78e059a744fa17719c6fb.jpeg?width=96&quality=75",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3576.5742661171143!2d50.22405480000001!3d26.307898099999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e9454ed66995%3A0x5cc11f7651b6934e!2z2KjZitmDINin2Kgg2KjYsdmC2LE!5e0!3m2!1sar!2ssa!4v1745060539593!5m2!1sar!2ssa'  allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "price": "من 30 الى 60",
+        "ratingText": "صجونا فيه وهو عادي بس عطيتهم 2 لان فاتورتي كانت 505",
+        "stars": 2,
+        "tryornot": "تمت تجربته ✅"
+      }
     ],
     "cafes": [
       { "name": "Mound : ماوند", 
@@ -148,9 +616,9 @@
         "tryornot": "تمت تجربته ✅"
       },
       {
-        "name": "Equal : إيكول",
-        "image": "https://www.equal.coffee/cdn/shop/files/Equal_Logo_1_e4bd9c92-10a4-4f81-9099-76d4649b859f_800x.png?v=1648545921",
-        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d447.0256466881422!2d50.2168868!3d26.319855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e9e01888deeb%3A0x24b41fb2aca8be03!2z2KfZitmD2YjZhCDZg9mI2YHZig!5e0!3m2!1sar!2ssa!4v1744693405757!5m2!1sar!2ssa'  allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+        "name": "WACAFE : وكف",
+        "image": "https://d8aaen7rph5y9.cloudfront.net/app/mediafiles/t_1650467193_swrms3/restaurants/wacafe_-_marketingwacafe.sa_16717259101980516.jpeg",
+        "mapUrl": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d375.90226787945323!2d50.21697598571811!3d26.319853751158693!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e49e96105a66423%3A0x36f9e4f5fa695a64!2zV0FDQUZFINmQQWwgS2hvYmFyIHwg2YjZg9mBINin2YTYrtio2LE!5e0!3m2!1sar!2ssa!4v1744759240834!5m2!1sar!2ssa' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
         "price": "من 20 الى 40",
         "ratingText": "القهوة والحلا عادية لكن المكان جميل بالصبح",
         "stars": "3",
@@ -192,5 +660,8 @@
         "stars": "3",
         "tryornot": "تمت تجربته ✅"
       }
-    ]
+    ],
+    "places":{
+    
+    }
   }
